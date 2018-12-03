@@ -175,8 +175,8 @@ footer{
   margin-left: -30px;
 }
 
-.desc-div { display:inline-block;float:left;font-size:12pt;margin-bottom:50px;width:50%; }
-.offer-div { display:inline-block;float:right;width:40%; }
+.desc-div { cursor:default;display:inline-block;float:left;font-size:12pt;margin-bottom:50px;width:50%; }
+.offer-div { cursor:default;display:inline-block;float:right;width:40%; }
 .offer-div div strong { font-size:14pt; }
 .offer-div input { padding:5px;margin-top:5px;width:70%; }
 .offer-div select { padding:5px;margin-top:5px;width:70%; }
