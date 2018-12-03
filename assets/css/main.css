@@ -177,4 +177,5 @@ footer{
 
 .desc-div { float:left;width:50%; }
 .offer-div { float:right;width:40%; }
-.submit-offer { background:#ededed;border:none;padding:3px;margin:10px; }
+.submit-offer { background:#ededed;border:none;font-weight:bold;padding:10px;margin:10px; }
+.submit-offer:hover { background:grey;color:white; }
