@@ -175,7 +175,7 @@ footer{
   margin-left: -30px;
 }
 
-.desc-div { display:inline-block;float:left;margin-bottom:50px;width:50%; }
+.desc-div { display:inline-block;float:left;font-size:12pt;margin-bottom:50px;width:50%; }
 .offer-div { display:inline-block;float:right;width:40%; }
 .submit-offer { background:#ededed;border:none;font-weight:bold;padding:5px;margin:10px; }
 .submit-offer:hover { background:grey;color:white; }
